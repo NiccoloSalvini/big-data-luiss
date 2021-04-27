@@ -1,4 +1,4 @@
-# Lezione 2
+# Lection 2
 
 
 1 - Linear Regression [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vincnardelli/big-data-luiss/blob/master/lession_2/1_regressione_lineare.ipynb)
